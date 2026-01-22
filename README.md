@@ -5,7 +5,7 @@ This SaaS ticketing system for teams aims for:
 - Security/Secure auth
 - Communication between members
 - Role-based access
-- Internal efficient communication
+- Efficient internal communication
 
 Project contains:
 - Front-end development
