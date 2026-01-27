@@ -4,8 +4,10 @@
   "description": "Ticketing SaaS system directed towards teams\r (Internal SaaS ticketing system for teams)",
   "main": "index.js",
   "scripts": {
+    "type": "module",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ts-node-dev src/server.ts"
+    
   },
   "repository": {
     "type": "git",
@@ -24,7 +26,7 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
-    "prisma": "^7.3.0"
+    "prisma": "^6.19.2"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
